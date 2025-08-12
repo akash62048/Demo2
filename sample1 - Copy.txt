@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+i am try
+>>>>>>> 677e8b4ed6065abb49f40d2bd4a5e343a0672984
